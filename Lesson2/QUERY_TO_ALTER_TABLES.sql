@@ -56,7 +56,7 @@
 
 #DROP TABLE `area`;
 
-SHOW CREATE TABLE _cities;
+SHOW CREATE TABLE _cities
 
 
 
